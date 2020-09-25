@@ -1,4 +1,5 @@
 # Spatio Temporal Code for Covid Spread Dynamics
+The code allows you to model epidemic spread such as Covid-19. The current implementation can be run on New York, Pennsylvania states and for individual counties as well. The code can be easily adopted for any input country, state or any demographic region. 
 
 # Citation 
 Developed by Joydeep Munshi and Indranil Roy at Lehigh University 
